@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/skilgarriff
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://SeanKilgarriff.com
+  * I am skilgarriff (https://keybase.io/skilgarriff) on keybase.
+  * I have a public key ASAk7Bxr_n9Ezv4AXiiYQPWcoR_3_Oltpdv8SoLpWpiMCwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012024ec1c6bfe7f44cefe005e289840f59ca11ff7fce96da5dbfc4a82e95a988c0b0a",
+            "host": "keybase.io",
+            "kid": "012024ec1c6bfe7f44cefe005e289840f59ca11ff7fce96da5dbfc4a82e95a988c0b0a",
+            "uid": "e8902a7638922b0f82fa1fbb597ace19",
+            "username": "skilgarriff"
+        },
+        "service": {
+            "hostname": "SeanKilgarriff.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486757639,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486757629,
+        "hash": "9b63b66a831aa0f8091cf5fdfc0ccded5e52005df548f3a76c46bbeceb959416d7ed0ad18071c8d20a0bd1777be2a406dc3b27795c220d5451f022816c5a2ed0",
+        "seqno": 872712
+    },
+    "prev": "1e5116af352fb083507c9feaa65378fe8193d32fee6eb45d9398c7b78b51508a",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJOwca/5/RM7+AF4omED1nKEf9/zpbaXb/EqC6VqYjAsKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjRlYzFjNmJmZTdmNDRjZWZlMDA1ZTI4OTg0MGY1OWNhMTFmZjdmY2U5NmRhNWRiZmM0YTgyZTk1YTk4OGMwYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjRlYzFjNmJmZTdmNDRjZWZlMDA1ZTI4OTg0MGY1OWNhMTFmZjdmY2U5NmRhNWRiZmM0YTgyZTk1YTk4OGMwYjBhIiwidWlkIjoiZTg5MDJhNzYzODkyMmIwZjgyZmExZmJiNTk3YWNlMTkiLCJ1c2VybmFtZSI6InNraWxnYXJyaWZmIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJTZWFuS2lsZ2FycmlmZi5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4Njc1NzYzOSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg2NzU3NjI5LCJoYXNoIjoiOWI2M2I2NmE4MzFhYTBmODA5MWNmNWZkZmMwY2NkZWQ1ZTUyMDA1ZGY1NDhmM2E3NmM0NmJiZWNlYjk1OTQxNmQ3ZWQwYWQxODA3MWM4ZDIwYTBiZDE3NzdiZTJhNDA2ZGMzYjI3Nzk1YzIyMGQ1NDUxZjAyMjgxNmM1YTJlZDAiLCJzZXFubyI6ODcyNzEyfSwicHJldiI6IjFlNTExNmFmMzUyZmIwODM1MDdjOWZlYWE2NTM3OGZlODE5M2QzMmZlZTZlYjQ1ZDkzOThjN2I3OGI1MTUwOGEiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAW+gmVcSvEgsDX7PerQuDSZeGOJHQ5RBpR/K8C8/EkGtYazEpA/BSo77HKHoljjeGa/XIgFxL219BC/iY8tF8NqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg7UUzfqwd62n8V4nLzN/4wUH3oHD4es8alaxnEVISodGjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/skilgarriff
+
+==================================================================

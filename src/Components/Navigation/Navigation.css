@@ -1,0 +1,26 @@
+.logo {
+  height: 25vh;
+  width: 20vw;
+  margin-top: 10px;
+  margin-left: 10px;
+  position: fixed;
+}
+
+/* For Modal animation */
+.enter {
+  opacity: 0.01;
+}
+
+.enter.enterActive {
+  opacity: 1;
+  transition: opacity 200ms ease-in;
+}
+
+.exampleLeave {
+  opacity: 1;
+}
+
+.leave.leaveActive {
+  opacity: 0.01;
+  transition: opacity 200ms ease-in;
+}

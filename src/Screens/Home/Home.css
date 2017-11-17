@@ -1,0 +1,11 @@
+.container {
+  height: 95vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logoContainer {
+  height: 50%;
+}

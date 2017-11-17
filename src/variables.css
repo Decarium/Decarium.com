@@ -1,0 +1,39 @@
+/* Open colors */
+@import "open-color/open-color.css";
+
+/* Screen Sizes */
+$medium-screen: 600px;
+$large-screen: 900px;
+
+/* Typography */
+$base-font:
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  "Roboto",
+  "Oxygen",
+  "Ubuntu",
+  "Cantarell",
+  "Fira Sans",
+  "Droid Sans",
+  "Helvetica Neue",
+  sans-serif;
+
+/* Font Sizes */
+$base-font-size: 1em;
+
+/* Line height */
+$base-line-height: 1.5;
+
+/* Font Colors */
+$base-font-color: var(--oc-gray-7);
+$action-color: $blue;
+
+/* Colors */
+$face-color: #323232;
+$face-hover-color: #bdc3c7;
+$contrast-red: var(--oc-red-7);
+$social-link-hover: #2574a9;
+
+$logo-background-color: var(--oc-gray-7);
+$logo-color: #ffffff;
