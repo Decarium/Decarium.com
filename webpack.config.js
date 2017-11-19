@@ -6,7 +6,7 @@ const webpack = require('webpack');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
-const SitemapPlugin = require('sitemap-webpack-plugin');
+const SitemapPlugin = require('sitemap-webpack-plugin').default;
 const CompressionPlugin = require('compression-webpack-plugin');
 const BrotliPlugin = require('brotli-webpack-plugin');
 const OfflinePlugin = require('offline-plugin');
@@ -71,7 +71,7 @@ module.exports = {
     new webpack.DefinePlugin({
       'process.env': {
         NODE_ENV: JSON.stringify('production'),
-        GA_ID: JSON.stringify('UA-46649481-3'),
+        GA_ID: JSON.stringify('UA-109218452-1'),
       },
     }),
     new CopyWebpackPlugin([
@@ -92,7 +92,7 @@ module.exports = {
       AppCache: false,
     }),
     new ExtractTextPlugin({ filename: 'bundle-[hash].css', disable: false, allChunks: true }),
-    new SitemapPlugin('https://seankilgarriff.com', paths, 'sitemap.xml'),
+    new SitemapPlugin('https://decarium.com', paths, 'sitemap.xml'),
   ],
   module: {
     rules: [
