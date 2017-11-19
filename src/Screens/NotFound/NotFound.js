@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactGA from 'react-ga';
 
+import { Helmet } from 'react-helmet';
+
 
 import styles from './NotFound.css';
 
@@ -9,7 +11,11 @@ import Navigation from '../../Components/Navigation';
 const NotFound = () =>
    (
      <div className={styles.wrapper}>
+       <Helmet>
+         <title>Oops...</title>
+       </Helmet>
        <Navigation />
+
 
        <main className={styles.container}>
          <div className={styles.content}>
