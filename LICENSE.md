@@ -2,7 +2,7 @@ All non-blog content related files are licensed by:
 
 MIT License
 
-Copyright (c) 2016 Sean Kilgarriff
+Copyright (c) 2017 Decarium LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
